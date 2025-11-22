@@ -1,7 +1,8 @@
 <div align="center">
-# BASICPYTHONCODES
+<h1 style="font-size: 3rem;">BASICPYTHONCODES</h1>
 
-_Empowering Secure, Fun, and Fast Coding Journeys_
+
+<h2><em>_Empowering Secure, Fun, and Fast Coding Journeys_</em></h2>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Gevonda108/BasicPythonCodes)
 ![Top Language](https://img.shields.io/github/languages/top/Gevonda108/BasicPythonCodes)
