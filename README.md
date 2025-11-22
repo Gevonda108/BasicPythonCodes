@@ -1,3 +1,4 @@
+<div align="center">
 # BASICPYTHONCODES
 
 _Empowering Secure, Fun, and Fast Coding Journeys_
@@ -7,6 +8,7 @@ _Empowering Secure, Fun, and Fast Coding Journeys_
 ![Language Count](https://img.shields.io/github/languages/count/Gevonda108/BasicPythonCodes)
 
 ---
+</div>
 
 ## Table of Contents
 
@@ -16,8 +18,10 @@ _Empowering Secure, Fun, and Fast Coding Journeys_
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+  - [Summary](#Summary)
 
 ---
+
 
 ## Overview
 
@@ -52,8 +56,7 @@ python <your_main_file>.py
 ```
 pytest
 ```
-```
 
-**Summary:**  
+### Summary:
 - **Badges** get added using special markdown from Shields.io.  
 - **Powershell blocks** use triple backticks and “powershell” as the language for syntax highlighting and Windows style.
